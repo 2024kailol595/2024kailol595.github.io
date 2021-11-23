@@ -1,0 +1,65 @@
+body {
+  background-color: darkred;
+  text-align: center;
+}
+
+
+h1 {
+  color: white;
+  font-family: verdana;
+  font-size: 200%;
+}
+h2 {
+  color: white;
+  font-family: verdana;
+  font-size: 175%;
+}
+h3   {
+  color: white;
+  font-family: verdana;
+  font-size: 150%;
+}
+h4 {
+  color: white;
+  font-family: verdana;
+  font-size: 125%;
+}
+
+p {
+  color: white;
+  font-family: verdana;
+  font-size: 100%;
+  
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+div {
+  height: 50px;
+  width: 50%;
+  background-color: darkgreen;
+  margin: auto;
+    color:white;
+}
